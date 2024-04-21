@@ -2,25 +2,21 @@
 
 
 <ul>
-    <li>1. Création du Web service </li>
+    <li>Création du Web service </li>
 </ul>
-Operation : 
-    Convertir un montant de lâ€™auro en DH
-    Consulter un Compte
-    Consulter une Liste de comptes
 <img src="captures/clientWsCode.png">
 <ul>
-    <li> 2. Déploiement du Web service </li>
+    <li>Déploiement du Web service </li>
 </ul>
 <img src="captures/serveurJws.png">
 <ul> 
-    <li> 3. Consulter le WSDL avec le navigateur</li>
+    <li>Consulter le WSDL avec le navigateur</li>
 </ul>
 <img src="captures/Q3_1.PNG">
 <img src="captures/Q3_2.PNG">
 <ul>
     <li>
-        4. Tester le web service SoapUI
+        Tester le web service SoapUI
          
     </li>
 </ul>
@@ -28,7 +24,7 @@ Operation :
 <img src="captures/Soap_Convert.PNG">
 <img src="captures/Soap_CompteList.PNG">
 <ul>
-    <li> 5. Création du client SOAP </li>
+    <li>Création du client SOAP </li>
 </ul>
 
 <img src="captures/clientWsCode.png">
